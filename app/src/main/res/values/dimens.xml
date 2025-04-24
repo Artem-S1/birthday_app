@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_primary_button_radius">12dp</dimen>
+    <dimen name="main_root_column_padding">24dp</dimen>
+    <dimen name="main_root_column_vertical_arrangement">16dp</dimen>
+    <dimen name="main_app_name_vertical_padding">20dp</dimen>
+    <dimen name="main_navigate_to_birthday_button_padding">24dp</dimen>
+    <dimen name="common_baby_face_circle_size">200dp</dimen>
+    <dimen name="common_baby_face_image_size">194dp</dimen>
+    <dimen name="common_baby_face_size">120dp</dimen>
+    <dimen name="common_baby_face_photo_size">34dp</dimen>
+    <dimen name="common_baby_face_photo_icon_padding_start">5dp</dimen>
+    <dimen name="common_baby_face_photo_icon_padding_end">2dp</dimen>
+</resources>
