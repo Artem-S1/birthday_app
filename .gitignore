@@ -1,0 +1,51 @@
+# Ignore Gradle files
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Ignore local configuration files
+.idea/
+*.iml
+local.properties
+*.log
+.DS_Store
+
+# Ignore Android Studio-specific files
+.vscode/
+
+# Ignore NDK build folder
+obj/
+
+# Ignore all .apk files
+*.apk
+*.ap_
+
+# Ignore all .jar files
+*.jar
+
+# Ignore generated files
+*.hprof
+*.bak
+*.swp
+
+# Ignore Proguard folder
+proguard/
+
+# Ignore test coverage files
+*.lcov
+*.tap
+
+# Ignore lint cache
+.lint/
+
+# Ignore Maven wrapper files
+.mvn/
+
+
+# Ignore any generated files in Android Studio
+captures/
+
+# Ignore JDK-related files
+JDK/
