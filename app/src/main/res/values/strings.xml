@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Birthday App</string>
+    <string name="name_label">Name</string>
+    <string name="pick_birthday">Choose Birthday</string>
+    <string name="birthday_prefix">Birthday: %1$s</string>
+    <string name="pick_picture">Choose Picture</string>
+    <string name="show_birthday_screen">Show birthday screen</string>
+    <string name="content_description_picked_image_desc">Picked Image</string>
+    <string name="content_description_svg_face">SVG Face</string>
+    <string name="content_description_camera_icon">Camera Icon</string>
+    <string name="content_description_icon">Icon</string>
 </resources>
