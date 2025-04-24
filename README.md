@@ -6,4 +6,4 @@
 - Image Loading with Coil
 
 ## Demo Video
-You can view or download the demo video here: [demo-video.mp4](https://github.com/Artem-S1/birthday_app/blob/dev/demo.mp4)
+You can view or download the [demo video](https://github.com/Artem-S1/birthday_app/blob/dev/demo.mp4)
