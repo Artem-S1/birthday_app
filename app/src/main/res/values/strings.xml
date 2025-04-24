@@ -6,7 +6,10 @@
     <string name="pick_picture">Choose Picture</string>
     <string name="show_birthday_screen">Show birthday screen</string>
     <string name="content_description_picked_image_desc">Picked Image</string>
+    <string name="content_description_logo_image">Logo Image</string>
     <string name="content_description_svg_face">SVG Face</string>
     <string name="content_description_camera_icon">Camera Icon</string>
+    <string name="content_description_bg">Background Image</string>
     <string name="content_description_icon">Icon</string>
+    <string name="birthday_name">TODAY %1$s IS</string>
 </resources>
