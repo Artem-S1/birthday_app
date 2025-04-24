@@ -11,4 +11,15 @@
     <dimen name="common_baby_face_photo_size">34dp</dimen>
     <dimen name="common_baby_face_photo_icon_padding_start">5dp</dimen>
     <dimen name="common_baby_face_photo_icon_padding_end">2dp</dimen>
+    <dimen name="birthday_count_left_swirls_padding">16dp</dimen>
+    <dimen name="birthday_count_right_swirls_padding">16dp</dimen>
+    <dimen name="birthday_count_image_padding">4dp</dimen>
+    <dimen name="birthday_count_description_padding_top">14dp</dimen>
+    <dimen name="birthday_count_description_font_size">18sp</dimen>
+    <dimen name="birthday_common_icon_button_padding">16dp</dimen>
+    <dimen name="birthday_root_column_padding">60dp</dimen>
+    <dimen name="birthday_title_padding_top">20dp</dimen>
+    <dimen name="birthday_screen_count_widget_padding_top">13dp</dimen>
+    <dimen name="birthday_screen_count_widget_padding_bottom">15dp</dimen>
+    <dimen name="birthday_screen_nanit_logo_padding">30dp</dimen>
 </resources>
