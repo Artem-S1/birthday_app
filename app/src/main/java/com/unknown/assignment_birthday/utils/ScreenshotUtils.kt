@@ -20,7 +20,6 @@ fun captureScreenshot(context: Context): Bitmap {
     return bitmap
 }
 
-
 fun saveScreenshot(context: Context, bitmap: Bitmap) {
     val file = File(context.getExternalFilesDir(Environment.DIRECTORY_PICTURES), "screenshots.png")
     try {
